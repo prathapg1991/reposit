@@ -50,6 +50,8 @@ public class Demo30 {
 		else{
 			System.out.println("failed");
 		}
+		driver.quit();
+		
 		
 		
 		
